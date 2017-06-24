@@ -8,6 +8,7 @@ namespace AnagramCheck
 {
     class Program
     {
+        //pushing into git
         //Write a function to check whether two given strings are anagram of each other or not.
 
          public static int CheckAnagram(string str1, string str2)
